@@ -1,10 +1,10 @@
 variable "aws_access_key" {
     # default = "ACCESS"
-    default = "AKIAZ6PIVOKTMJQEG7PR"
+    ###add you access key####
 }
 variable "aws_secret_key" {
     # default = "SECRET"
-    default = "EXRUDpKjut/O01NjfqXce7ovhF54E25GMCkEyaTZ"
+    ###add your secret key############
 }
 variable "aws_key_path" {
     # default = "/root/terraform-ansible/terraform"
