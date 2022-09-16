@@ -1,19 +1,13 @@
 variable "aws_access_key" {
     # default = "ACCESS"
-<<<<<<< HEAD
     ###add you access key####
 }
 variable "aws_secret_key" {
     # default = "SECRET"
     ###add your secret key############
-=======
- 
+
 }
-variable "aws_secret_key" {
-    # default = "SECRET"
-   
->>>>>>> 5eb35252d0a1edea05324ec66fa1642d01e8c620
-}
+
 variable "aws_key_path" {
     # default = "/root/terraform-ansible/terraform"
     default     = "~/.ssh/wordpress.pem"
